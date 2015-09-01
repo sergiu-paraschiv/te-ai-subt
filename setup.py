@@ -38,7 +38,7 @@ setup(
     version=VERSION,
     author="Sergiu",
     author_email="sergiuspk+gh@gmail.com",
-    url="https://bitbucket.org/guillaumepiot/cotidia-admin-tools",
+    url="https://github.com/sergiu-paraschiv/te-ai-subt",
     download_url="https://github.com/sergiu-paraschiv/te-ai-subt",
     package_dir={'man': 'man'},
     packages=packages,
