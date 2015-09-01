@@ -1,7 +1,7 @@
 import os
 from distutils.core import setup
 from setuptools import find_packages
-VERSION = __import__("admin_tools").__version__
+VERSION = __import__("man").__version__
 CLASSIFIERS = [
     'Framework :: Django',
     'Intended Audience :: Developers',
